@@ -1,3 +1,3 @@
-module gopher/example
+module gopher
 
 go 1.19
