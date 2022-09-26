@@ -7,6 +7,6 @@ func Test_longestPalindrome(t *testing.T) {
 	expect := "bab"
 
 	if result := longestPalindrome(input); result != expect {
-		t.Errorf("result = %q, expect = %q", result, expect)
+		t.Errorf("result = %v, expect = %v", result, expect)
 	}
 }
