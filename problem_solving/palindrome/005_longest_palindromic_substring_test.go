@@ -1,4 +1,4 @@
-package problem_solving
+package palindrome
 
 import "testing"
 

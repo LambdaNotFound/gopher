@@ -1,4 +1,4 @@
-package problem_solving
+package palindrome
 
 func longestPalindrome(s string) string {
 	start, length, size := 0, 1, len(s)
